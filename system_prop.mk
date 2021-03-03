@@ -50,3 +50,8 @@ PRODUCT_PRODUCTY_OVERRIDES += \
     persist.dbg.volte_avail_ovr=1 \
     persist.dbg.wfc_avail_ovr=1 \
     persist.vendor.radio.mt_sms_ack=30
+
+# SoC
+PRODUCT_PRODUCTY_OVERRIDES += \
+    ro.soc.manufacturer=Qualcomm \
+    ro.soc.model=SM7225
