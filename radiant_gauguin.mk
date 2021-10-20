@@ -8,13 +8,10 @@
 $(call inherit-product, device/xiaomi/gauguin/device.mk)
 
 # Inherit some common LineageOS stuff.
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
-
-# Inherit GMS stuff.
-$(call inherit-product, vendor/gms/gms_full.mk)
+$(call inherit-product, vendor/radiant/config/common_full_phone.mk)
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := lineage_gauguin
+PRODUCT_NAME := radiant_gauguin
 PRODUCT_DEVICE := gauguin
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MANUFACTURER := Xiaomi
