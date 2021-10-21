@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/radiant_gauguin.mk
+    $(LOCAL_DIR)/cipher_gauguin.mk
 
 COMMON_LUNCH_CHOICES := \
-    radiant_gauguin-user \
-    radiant_gauguin-userdebug \
-    radiant_gauguin-eng
+    cipher_gauguin-user \
+    cipher_gauguin-userdebug \
+    cipher_gauguin-eng
