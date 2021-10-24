@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/fluid_gauguin.mk
+    $(LOCAL_DIR)/aosp_gauguin.mk
 
 COMMON_LUNCH_CHOICES := \
-    fluid_gauguin-user \
-    fluid_gauguin-userdebug \
-    fluid_gauguin-eng
+    aosp_gauguin-user \
+    aosp_gauguin-userdebug \
+    aosp_gauguin-eng
