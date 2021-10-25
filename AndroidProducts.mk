@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/legion_gauguin.mk
+    $(LOCAL_DIR)/aosp_gauguin.mk
 
 COMMON_LUNCH_CHOICES := \
-    legion_gauguin-user \
-    legion_gauguin-userdebug \
-    legion_gauguin-eng
+    aosp_gauguin-user \
+    aosp_gauguin-userdebug \
+    aosp_gauguin-eng
