@@ -53,3 +53,6 @@ PRODUCT_PRODUCTY_OVERRIDES += \
 PRODUCT_PRODUCTY_OVERRIDES += \
     ro.soc.manufacturer=Qualcomm \
     ro.soc.model=SM7225
+
+# Stuff
+ro.elixir.maintainer_name=Droneship
