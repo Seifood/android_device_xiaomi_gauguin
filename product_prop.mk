@@ -50,3 +50,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.telephony.default_network=33,22
 
+# Elixir Stuff
+ro.elixir.version_code=1.0 \
+ro.elixir.maintainer_name=Droneship
