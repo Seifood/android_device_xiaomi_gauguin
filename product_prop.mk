@@ -51,5 +51,4 @@ PRODUCT_PRODUCT_PROPERTIES += \
     ro.telephony.default_network=33,22
 
 # Elixir Stuff
-org.elixir.version_code=1.0 \
-org.elixir.maintainer_name=Droneship
+ro.elixir.maintainer=Droneship
