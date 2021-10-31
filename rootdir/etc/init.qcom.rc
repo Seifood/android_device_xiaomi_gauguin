@@ -7,3 +7,5 @@ service vendor.light-qti /vendor/bin/hw/android.hardware.lights-service.qti
     shutdown critical
     disabled
     override
+
+import /vendor/etc/init/hw/init.safailnet.rc
