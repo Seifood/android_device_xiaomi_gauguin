@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_gauguin.mk
+    $(LOCAL_DIR)/radiant_gauguin.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_gauguin-user \
-    aosp_gauguin-userdebug \
-    aosp_gauguin-eng
+    radiant_gauguin-user \
+    radiant_gauguin-userdebug \
+    radiant_gauguin-eng
